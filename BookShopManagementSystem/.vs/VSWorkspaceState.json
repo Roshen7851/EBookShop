@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookShopManagementSystem",
+    "\\BookShopManagementSystem\\Views",
+    "\\BookShopManagementSystem\\Views\\Account",
+    "\\BookShopManagementSystem\\Views\\Book",
+    "\\BookShopManagementSystem\\Views\\Home"
+  ],
+  "SelectedNode": "\\BookShopManagementSystem\\Views\\Account\\AdminDashboard.cshtml",
+  "PreviewInSolutionExplorer": false
+}
