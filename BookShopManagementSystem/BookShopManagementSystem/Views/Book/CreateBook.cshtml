@@ -1,0 +1,90 @@
+﻿@model BookShopManagementSystem.Models.Book
+
+@{
+    ViewData["Title"] = "Create Book";
+}
+
+<h1>Create Book</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="CreateBook" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label class="form-label">Title</label>
+                <input class="form-control" asp-for="Title">
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Author</label>
+                <input class="form-control" asp-for="Author">
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Description</label>
+                <textarea class="form-control" asp-for="Description"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Available Quantity</label>
+                <input class="form-control" asp-for="AvailableQuantity">
+                <span asp-validation-for="AvailableQuantity" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Book Category</label>
+                <select class="form-select" asp-for="BookCategory">
+                    <option value='Other'>Other</option>
+                    <option value='Story'>Story</option>
+                    <option value='Novel'>Novel</option>
+                    <option value='Translation'>Translation</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">ISBN</label>
+                <input class="form-control" asp-for="ISBN">
+                <span asp-validation-for="ISBN" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Price</label>
+                <input class="form-control" asp-for="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Image</label>
+                <input type="file" class="form-control" asp-for="ImagePath">
+                <span asp-validation-for="ImagePath" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Published Date</label>
+                <input type="date" class="form-control" asp-for="PublishDate">
+                <span asp-validation-for="PublishDate" class="text-danger"></span>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <a class="btn btn-secondary" asp-controller="Book" asp-action="Index">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="BookManagement">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
