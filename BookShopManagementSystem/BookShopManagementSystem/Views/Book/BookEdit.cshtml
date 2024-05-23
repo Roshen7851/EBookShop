@@ -1,0 +1,129 @@
+﻿@model BookDto
+@{
+}
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Edit Book</h2>
+
+        <form method="post" enctype="multipart/form-data">
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Id</lable>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@ViewData["BookId"]">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Title</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Title">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Author</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Author">
+                    <span asp-validation-for="Author" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Description</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Description">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Available Quantity</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="AvailableQuantity">
+                    <span asp-validation-for="AvailableQuantity" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Book Category</lable>
+                <div class="col-sm-8">
+                    <select class="form-select" asp-for="BookCategory">
+                        <option value='Other'>Other</option>
+                        <option value='Story'>Story</option>
+                        <option value='Novel'>Novel</option>
+                        <option value='Translation'>Translation</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">ISBN</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ISBN">
+                    <span asp-validation-for="ISBN" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Price</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Price">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-8">
+                    <img src="/bookImages/@ViewData["ImageFileName"]" />
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Image</lable>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ImagePath">
+                    <span asp-validation-for="ImagePath" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <lable class="col-sm-4 col-form-lable">Created At</lable>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@ViewData["PublishDate"]">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" asp-controller="Book" asp-action="Index" role="button">
+                        Cancel
+                    </a>
+                </div>
+            </div>
+
+           @*  <div class="row">
+                <div class="col-md-6">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <a class="btn btn-secondary" asp-controller="Book" asp-action="Index">Cancel</a>
+                </div>
+            </div> *@
+        </form>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="BookManagement">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

@@ -1,0 +1,1245 @@
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.AssemblyReference.cache
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfoInputs.cache
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfo.cs
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cache
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cs
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.json
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.staticwebassets.runtime.json
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.exe
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.deps.json
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.runtimeconfig.json
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.pdb
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Humanizer.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.BookShopManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShopManagementSystem.props
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShopManagementSystem.props
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShopManagementSystem.props
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\bundle\BookShopManagementSystem.styles.css
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\BookShopManagementSystem.bundle.scp.css
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShop.CD103C7A.Up2Date
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\refint\BookShopManagementSystem.dll
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.pdb
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.genruntimeconfig.cache
+D:\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\ref\BookShopManagementSystem.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.staticwebassets.runtime.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.exe
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.deps.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.runtimeconfig.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.pdb
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Humanizer.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.AssemblyReference.cache
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfoInputs.cache
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfo.cs
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cache
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cs
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.BookShopManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShopManagementSystem.props
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShopManagementSystem.props
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShopManagementSystem.props
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\bundle\BookShopManagementSystem.styles.css
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\BookShopManagementSystem.bundle.scp.css
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CopyComplete
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\refint\BookShopManagementSystem.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.pdb
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.genruntimeconfig.cache
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\ref\BookShopManagementSystem.dll
+F:\Documents\GitHub\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.staticwebassets.runtime.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.exe
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.deps.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.runtimeconfig.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.pdb
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Humanizer.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.AssemblyReference.cache
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfoInputs.cache
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfo.cs
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cache
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cs
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.BookShopManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShopManagementSystem.props
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShopManagementSystem.props
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShopManagementSystem.props
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\bundle\BookShopManagementSystem.styles.css
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\BookShopManagementSystem.bundle.scp.css
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CopyComplete
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\refint\BookShopManagementSystem.dll
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.pdb
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.genruntimeconfig.cache
+D:\Top Up\Rosi\AD\System\BookShopManagementSystem\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\ref\BookShopManagementSystem.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.staticwebassets.runtime.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.exe
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.deps.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.runtimeconfig.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.pdb
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Humanizer.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.AssemblyReference.cache
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfoInputs.cache
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfo.cs
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CoreCompileInputs.cache
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cache
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cs
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.sourcelink.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.BookShopManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShopManagementSystem.props
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShopManagementSystem.props
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShopManagementSystem.props
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\bundle\BookShopManagementSystem.styles.css
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\BookShopManagementSystem.bundle.scp.css
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShop.CD103C7A.Up2Date
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\refint\BookShopManagementSystem.dll
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.pdb
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.genruntimeconfig.cache
+F:\EBookShop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\ref\BookShopManagementSystem.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\appsettings.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.staticwebassets.runtime.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.exe
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.deps.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.runtimeconfig.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\BookShopManagementSystem.pdb
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Humanizer.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.AssemblyReference.cache
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfoInputs.cache
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.AssemblyInfo.cs
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cache
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.RazorAssemblyInfo.cs
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.BookShopManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShopManagementSystem.props
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShopManagementSystem.props
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShopManagementSystem.props
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\bundle\BookShopManagementSystem.styles.css
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\BookShopManagementSystem.bundle.scp.css
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.csproj.CopyComplete
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\refint\BookShopManagementSystem.dll
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.pdb
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\BookShopManagementSystem.genruntimeconfig.cache
+F:\Documents\GitHub\EBookShop-develop\BookShopManagementSystem\BookShopManagementSystem\obj\Debug\net6.0\ref\BookShopManagementSystem.dll

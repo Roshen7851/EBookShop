@@ -1,0 +1,79 @@
+﻿@model IEnumerable<BookShopManagementSystem.Models.Book>
+
+@{
+    ViewData["Title"] = "Book List";
+}
+
+<h1>Book List</h1>
+
+<form id="searchForm" method="get" action="@Url.Action("Index", "Home")">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" name="query" placeholder="Search books...">
+        <div class="input-group-append">
+            <button id="searchButton" class="btn btn-primary" type="submit">Search</button>
+        </div>
+    </div>
+</form>
+
+<div id="bookList" class="row">
+    @foreach (var book in Model)
+    {
+        <div class="col-md-3">
+            <div class="card mb-4">
+                <img src="/bookImages/@book.ImagePath" class="card-img-top" alt="@book.Title" style="height: 300px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title">@book.Title</h5>
+                    <p class="card-text">by @book.Author</p>
+                    <p class="card-text"><strong>Price:</strong> $@book.Price</p>
+                    <div class="mt-auto d-flex justify-content-between">
+                        <a href="@Url.Action("Details", "Book", new { id = book.BookId })" class="btn btn-info">Details</a>
+                        <form asp-action="OrderBook" method="post" onsubmit="return checkLogin()">
+                            <input type="hidden" name="id" value="@book.BookId" />
+                            <input type="submit" value="Order" class="btn btn-primary" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        // $(document).ready(function () {
+        //     $('#searchForm').submit(function (event) {
+        //         event.preventDefault();
+        //         var form = $(this);
+        //         var url = form.attr('action');
+        //         var method = form.attr('method');
+        //         var data = form.serialize();
+
+        //         $.ajax({
+        //             url: url,
+        //             type: method,
+        //             data: data,
+        //             success: function (result) {
+        //                 $('#bookList').html($(result).find('#bookList').html());
+        //             }
+        //         });
+        //     });
+        // });
+
+        function checkLogin() {
+            var isAuthenticated = @User.Identity.IsAuthenticated.ToString().ToLower();
+            var isCustomer = @User.IsInRole("Customer").ToString().ToLower();
+
+            if (!isAuthenticated) {
+                window.location.href = '@Url.Action("Login", "Account")';
+                return false;
+            }
+
+            if (!isCustomer) {
+                alert("Only customers can place orders.");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+}
