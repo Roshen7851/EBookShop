@@ -1,0 +1,25 @@
+﻿@model BookShopManagementSystem.Models.Book
+
+@{
+    ViewData["Title"] = "Add to Cart";
+}
+
+<h1>Add to Cart</h1>
+
+<div>
+    <h2>@Model.Title</h2>
+    <p>Author: @Model.Author</p>
+    <p>ISBN: @Model.ISBN</p>
+    <p>Description: @Model.Description</p>
+    <p>Price: $@Model.Price</p>
+    <img src="/bookImages/@Model.ImagePath" alt="@Model.Title" style="max-width: 200px; max-height: 200px;" />
+    <form asp-action="AddToCart" asp-controller="Cart" method="post">
+        <input type="hidden" name="id" value="@Model.BookId" />
+        <div class="form-group">
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" name="quantity" value="1" min="1" />
+        </div>
+        <button type="submit" class="btn btn-primary">Add to Cart</button>
+    </form>
+
+</div>

@@ -1,10 +1,20 @@
-﻿@model IEnumerable<BookShopManagementSystem.Models.Book>
+﻿<!-- BookList.cshtml -->
+@model IEnumerable<BookShopManagementSystem.Models.Book>
 
 @{
     ViewData["Title"] = "Book List";
 }
 
 <h1>Book List</h1>
+
+<form id="searchForm" method="get" action="@Url.Action("Index", "Customer")">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" name="query" placeholder="Search books...">
+        <div class="input-group-append">
+            <button id="searchButton" class="btn btn-primary" type="submit">Search</button>
+        </div>
+    </div>
+</form>
 
 <div class="row">
     @foreach (var book in Model)
@@ -16,11 +26,18 @@
                     <h5 class="card-title">@book.Title</h5>
                     <p class="card-text">by @book.Author</p>
                     <p class="card-text"><strong>Price:</strong> $@book.Price</p>
-                    <div class="mt-auto d-flex justify-content-end">
-                        <a href="#" class="btn btn-primary">Add to Cart</a>
+                  <div>
+                      
+                        <a href="@Url.Action("AddToCart", "Cart", new { id = book.BookId })" class="btn btn-primary">Order</a>
                     </div>
                 </div>
             </div>
         </div>
     }
 </div>
+
+<!-- Use session data -->
+@if (ViewBag.UserRole == "Customer")
+{
+    <p>Welcome, customer!</p>
+}

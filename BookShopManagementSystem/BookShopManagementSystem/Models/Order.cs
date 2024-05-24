@@ -1,27 +1,28 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿// Order.cs
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace BookShopManagementSystem.Models
 {
     public class Order
     {
-        [Required]
         public int OrderId { get; set; }
 
         [Required]
-        public int BookId { get; set; }
-
-        public Book Book { get; set; }
+        public int CustomerId { get; set; }
 
         [Required]
-        public int UserId { get; set; }
-
-        [Required]
-        public string OrderStatus { get; set; } = "Pending";
-
-        [Required]
-        public int Quantity { get; set; }
+        public decimal TotalPrice { get; set; }
 
         [Required]
         public DateTime OrderDate { get; set; }
+
+        [Required]
+        public string Status { get; set; } // "pending", "accepted", "rejected", etc.
+
+        // Navigation property for OrderDetails
+        public ICollection<OrderDetail> OrderDetails { get; set; }
     }
 }

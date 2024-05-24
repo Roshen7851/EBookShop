@@ -49,9 +49,11 @@ namespace BookShopManagementSystem.Controllers
                 var admin = await _context.Admin.FirstOrDefaultAsync(a => a.Username == username && a.Password == password);
                 if (admin != null)
                 {
-                    // Set session or cookie if needed
+                    // Set session variables for admin
                     HttpContext.Session.SetString("UserRole", "Admin");
                     HttpContext.Session.SetString("Username", admin.Username);
+                    // Set CustomerId to 0 or any other value since it's not applicable for admins
+                    HttpContext.Session.SetInt32("CustomerId", 0);
                     return RedirectToAction("AdminDashboard");
                 }
             }
@@ -60,9 +62,10 @@ namespace BookShopManagementSystem.Controllers
                 var customer = await _context.Customer.FirstOrDefaultAsync(c => c.Username == username && c.Password == password);
                 if (customer != null)
                 {
-                    // Set session or cookie if needed
+                    // Set session variables for customer
                     HttpContext.Session.SetString("UserRole", "Customer");
                     HttpContext.Session.SetString("Username", customer.Username);
+                    HttpContext.Session.SetInt32("CustomerId", customer.CustomerId); // Set CustomerId to the actual customer's ID
                     return RedirectToAction("Index", "Customer");
                 }
             }
@@ -86,8 +89,11 @@ namespace BookShopManagementSystem.Controllers
         // Logout
         public async Task<IActionResult> Logout()
         {
-            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            // Clear session except for necessary variables like "UserRole"
+            var userRole = HttpContext.Session.GetString("UserRole");
             HttpContext.Session.Clear();
+            HttpContext.Session.SetString("UserRole", userRole);
+
             return RedirectToAction("Login");
         }
 

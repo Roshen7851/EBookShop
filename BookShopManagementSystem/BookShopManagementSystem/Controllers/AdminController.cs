@@ -1,4 +1,8 @@
-﻿using BookShopManagementSystem.DBContext;
+﻿// AdminController.cs
+
+using System.Linq;
+using BookShopManagementSystem.DBContext;
+using BookShopManagementSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,31 +17,59 @@ namespace BookShopManagementSystem.Controllers
             _context = context;
         }
 
-        public IActionResult AdminDashboard() => View();
-
-        public async Task<IActionResult> ManageOrders()
+        // Action to manage orders
+        public IActionResult OrderManagement()
         {
-            var orders = await _context.Orders.Include(o => o.Book).ToListAsync();
+            var orders = _context.Orders
+                .Include(o => o.OrderDetails)
+                .ThenInclude(od => od.Book)
+                .ToList();
+
             return View(orders);
         }
 
-        [HttpPost]
-        public async Task<IActionResult> UpdateOrderStatus(int orderId, string status)
+        // Action to accept an order
+        public IActionResult AcceptOrder(int orderId)
         {
-            var order = await _context.Orders.FindAsync(orderId);
-            if (order == null)
+            var order = _context.Orders
+        .Include(o => o.OrderDetails)
+        .ThenInclude(od => od.Book)
+        .FirstOrDefault(o => o.OrderId == orderId);
+
+            if (order != null)
             {
-                return NotFound();
+                // Update order status
+                order.Status = "accepted";
+
+                // Update book quantities
+                foreach (var orderDetail in order.OrderDetails)
+                {
+                    var book = orderDetail.Book;
+                    if (book != null)
+                    {
+                        // Decrease available quantity by the ordered quantity
+                        book.AvailableQuantity -= orderDetail.Quantity;
+                    }
+                }
+
+                // Save changes
+                _context.SaveChanges();
             }
 
-            order.OrderStatus = status;
-            _context.Orders.Update(order);
-            await _context.SaveChangesAsync();
-
-            return RedirectToAction(nameof(ManageOrders));
+            return RedirectToAction("OrderManagement");
         }
 
+        // Action to decline an order
+        public IActionResult DeclineOrder(int orderId)
+        {
+            var order = _context.Orders.Find(orderId);
+            if (order != null)
+            {
+                order.Status = "declined";
+                _context.SaveChanges();
+            }
 
+            return RedirectToAction("OrderManagement");
+        }
     }
-
 }

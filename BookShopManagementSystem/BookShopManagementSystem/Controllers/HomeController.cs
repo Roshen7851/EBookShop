@@ -20,11 +20,24 @@ namespace BookShopManagementSystem.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index()
-        {
-            var books = await _context.Books.ToListAsync();
-            return View(books);
-        }
+        //public async Task<IActionResult> Index()
+        //{
+            //Search
+            // Action to display the home page with all books or filtered books based on search query
+            public IActionResult Index(string query)
+            {
+                IQueryable<Book> books = _context.Books;
+
+                if (!string.IsNullOrEmpty(query))
+                {
+                    books = books.Where(b => b.Title.Contains(query) ||
+                                             b.BookCategory.Contains(query) ||
+                                             b.Author.Contains(query));
+                }
+
+                return View(books.ToList());
+            }
+        //}
 
         public IActionResult Privacy()
         {

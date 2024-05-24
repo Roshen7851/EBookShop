@@ -1,0 +1,65 @@
+﻿<!-- OrderManagement.cshtml -->
+@model List<BookShopManagementSystem.Models.Order>
+
+<h1>Order Management</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Customer Id</th>
+            <th>Books</th>
+            
+            <th>Total Price</th>
+            <th>Order Date</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                <td>@order.CustomerId</td>
+                <td>
+                    <ul>
+                        @foreach (var orderDetail in order.OrderDetails)
+                        {
+                            <li>@orderDetail.Book.Title  <br>-Quantity: @orderDetail.Quantity</li>
+                        }
+                    </ul>
+                </td>
+                <td>@order.TotalPrice</td>
+                <td>@order.OrderDate</td>
+                <td>
+                    <span style="color:
+                      @if (order.Status == "accepted")
+                      {
+            <text>green</text>
+        }
+        else if (order.Status == "pending")
+        {
+            <text>blue</text>
+        }
+        else if (order.Status == "declined")
+        {
+            <text>red</text>
+        }
+            ">
+                        @order.Status
+        </span>
+                </td>
+                <td>
+                    @if (order.Status == "pending")
+                    {
+                        <div class="mt-auto d-flex justify-content-between">
+                        <a class="btn-primary btn-sm p-1" href="@Url.Action("AcceptOrder", "Admin", new { orderId = order.OrderId })" class="btn btn-success">Accept</a>
+                            <a class="btn-danger btn-sm p-1 ml-3" href="@Url.Action("DeclineOrder", "Admin", new { orderId = order.OrderId })" class="btn btn-danger">Decline</a>
+                    </div>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

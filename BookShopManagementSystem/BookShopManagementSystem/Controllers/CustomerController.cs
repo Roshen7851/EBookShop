@@ -18,41 +18,49 @@ namespace BookShopManagementSystem.Controllers
 
         public IActionResult OrderBooks() => View();
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index(string query)
         {
-            var books = await _context.Books.ToListAsync();
-            return View(books);
-        }
+            IQueryable<Book> books = _context.Books;
 
-        [HttpPost]
-        public async Task<IActionResult> OrderBook(int id)
-        {
-            var book = await _context.Books.FindAsync(id);
-            if (book == null)
+            if (!string.IsNullOrEmpty(query))
             {
-                return NotFound();
+                books = books.Where(b => b.Title.Contains(query) ||
+                                         b.BookCategory.Contains(query) ||
+                                         b.Author.Contains(query));
             }
 
-            var order = new Order
-            {
-                BookId = book.BookId,
-                UserId = 1, // Replace with actual user ID when implementing user authentication
-                OrderStatus = "Pending",
-                Quantity = 1, // Default quantity, you can enhance this to allow user input
-                OrderDate = DateTime.Now
-            };
-
-            _context.Orders.Add(order);
-            await _context.SaveChangesAsync();
-
-            return RedirectToAction(nameof(ViewOrders));
+            return View(books.ToList());
         }
 
-        public async Task<IActionResult> ViewOrders()
-        {
-            var orders = await _context.Orders.Include(o => o.Book).Where(o => o.UserId == 1).ToListAsync(); // Replace 1 with actual user ID
-            return View(orders);
-        }
+        //[HttpPost]
+        //public async Task<IActionResult> OrderBook(int id)
+        //{
+        //    var book = await _context.Books.FindAsync(id);
+        //    if (book == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var order = new Order
+        //    {
+        //        BookId = book.BookId,
+        //        UserId = 1, // Replace with actual user ID when implementing user authentication
+        //        OrderStatus = "Pending",
+        //        Quantity = 1, // Default quantity, you can enhance this to allow user input
+        //        OrderDate = DateTime.Now
+        //    };
+
+        //    _context.Orders.Add(order);
+        //    await _context.SaveChangesAsync();
+
+        //    return RedirectToAction(nameof(ViewOrders));
+        //}
+
+        //public async Task<IActionResult> ViewOrders()
+        //{
+        //    var orders = await _context.Orders.Include(o => o.Book).Where(o => o.UserId == 1).ToListAsync(); // Replace 1 with actual user ID
+        //    return View(orders);
+        //}
 
     }
 }

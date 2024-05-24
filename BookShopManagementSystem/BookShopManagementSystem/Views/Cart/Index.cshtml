@@ -1,0 +1,37 @@
+﻿@model IEnumerable<BookShopManagementSystem.Models.Cart>
+
+<h1>Shopping Cart</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><img src="@Url.Content(item.ImagePath)" style="height: 100px;" alt="@item.Title" /></td>
+                <td>@item.Title</td>
+                <td>@item.Price</td>
+                <td>@item.Quantity</td>
+                <td>@(item.Price * item.Quantity)</td>
+                <td>
+                    <a href="@Url.Action("RemoveFromCart", "Cart", new { id = item.CartId })" class="btn btn-danger">Remove</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="mt-auto d-flex justify-content-between">
+<a href="@Url.Action("Index", "Customer")" class="btn btn-secondary">Continue Shopping</a>
+<form asp-action="BuyNow" asp-controller="Cart" method="post">
+    <button type="submit" class="btn btn-primary">Buy Now</button>
+</form>
+</div>

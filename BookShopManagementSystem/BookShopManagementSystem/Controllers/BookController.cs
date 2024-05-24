@@ -184,5 +184,25 @@ namespace BookShopManagementSystem.Controllers
             return RedirectToAction("BookManagement");
 
         }
+
+        // GET: Books/Details/5
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var book = await _context.Books
+                .FirstOrDefaultAsync(m => m.BookId == id);
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            return View(book);
+        }
+
+       
     }
 }
